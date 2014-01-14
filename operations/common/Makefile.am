@@ -23,6 +23,7 @@ op_LTLIBRARIES = \
 	cartoon.la \
 	channel-mixer.la \
 	checkerboard.la \
+        color-exchange.la \
 	color-reduction.la \
 	color-temperature.la \
 	color-to-alpha.la \
@@ -117,3 +118,4 @@ op_LTLIBRARIES = \
 	whirl-pinch.la \
 	wind.la \
 	write-buffer.la
+
